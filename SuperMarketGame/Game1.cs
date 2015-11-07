@@ -7,6 +7,7 @@ namespace SuperMarketGame
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
+    /// ghghgghg
 
     public class Game1 : Game
     {
