@@ -7,7 +7,7 @@ namespace SuperMarketGame
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
-    /// //THIS IS A TEST
+
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
